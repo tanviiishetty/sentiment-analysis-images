@@ -25,24 +25,24 @@ Visualizes training progress through accuracy and loss graphs
 Install dependencies via:
 pip install tensorflow keras numpy matplotlib opencv-python
 
-###Usage
+### Usage
 Clone this repository:
 git clone https://github.com/your-username/sentiment-analysis-images.git
 cd sentiment-analysis-images
 
 Open the notebook in Google Colab or your local environment and run the code.
 
-##Model Architecture
+## Model Architecture
 The CNN model includes multiple convolutional and max-pooling layers followed by fully connected dense layers, culminating in a softmax output layer to classify multiple emotion categories.
 
-##Results
+## Results
 Model accuracy: 55% 
 Training and validation metrics are plotted within the notebook.
 
-##Contributing
+## Contributing
 Contributions and improvements are welcome! Feel free to fork the repository and submit pull requests.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 
