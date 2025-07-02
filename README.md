@@ -22,13 +22,18 @@ Visualizes training progress through accuracy and loss graphs
 - Matplotlib
 - OpenCV (optional, for image preprocessing)
 
-Install dependencies via:
+### Install dependencies via:
 pip install tensorflow keras numpy matplotlib opencv-python
+```
+pip install tensorflow keras numpy matplotlib opencv-python
+```
 
 ### Usage
 Clone this repository:
+```
 git clone https://github.com/your-username/sentiment-analysis-images.git
 cd sentiment-analysis-images
+```
 
 Open the notebook in Google Colab or your local environment and run the code.
 
